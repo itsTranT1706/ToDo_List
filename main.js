@@ -1,4 +1,4 @@
-(()=> {
+
     //state variables
     let toDoListArray =[];
     //ui variables
@@ -60,4 +60,3 @@
         console.log(toDoListArray);
     }
 
-})
